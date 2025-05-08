@@ -1,0 +1,19 @@
+
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find me",
+      "details": "Kanpur, Uttar Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call me",
+      "details": "8383812521"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail me",
+      "details": "dhimanmajumdar08233@gamil.com"
+    }
+  ]
+  

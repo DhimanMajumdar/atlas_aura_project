@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "capital": "No Capital",
+      "population": "8,045,000,000 (Eight billion forty-five million)",
+      "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+    },
+    {
+      "id": 2,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": "29,609,623 (Twenty-nine million six hundred nine thousand six hundred twenty-three)",
+      "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+    },
+    {
+      "id": 3,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": "104,258,327 (One hundred four million two hundred fifty-eight thousand three hundred twenty-seven)",
+      "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": "25,687,041 (Twenty-five million six hundred eighty-seven thousand forty-one)",
+      "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": "213,993,437 (Two hundred thirteen million nine hundred ninety-three thousand four hundred thirty-seven)",
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": "67,407,241 (Sixty-seven million four hundred seven thousand two hundred forty-one)",
+      "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": "132,421,607 (One hundred thirty-two million four hundred twenty-one thousand six hundred seven)",
+      "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": "1,444,216,107 (One billion four hundred forty-four million two hundred sixteen thousand one hundred seven)",
+      "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+    }
+  ]
+  
