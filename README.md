@@ -1,7 +1,7 @@
 # 🗺️ AtlasAura – Explore the World, One Country at a Time
 
 **Tech Stack:** React 19 ⚛️ | Tailwind CSS 🎨 | Vite 🚀 | React Router | Country API  
-**Live Site:** [🌍 Launch AtlasAura](https://lnkd.in/gz2KzeVr)
+**Live Site:** [🌍 Launch AtlasAura](https://dhiman-atlasaura.netlify.app)
 
 ---
 
