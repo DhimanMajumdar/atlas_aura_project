@@ -1,12 +1,47 @@
-# React + Vite
+# 🗺️ AtlasAura – Explore the World, One Country at a Time
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Tech Stack:** React 19 ⚛️ | Tailwind CSS 🎨 | Vite 🚀 | React Router | Country API  
+**Live Site:** [🌍 Launch AtlasAura](https://dhiman-atlasaura.netlify.app)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## Expanding the ESLint configuration
+Ever searched _“Does Liechtenstein really exist?”_ Or wondered what language they speak on the **Pitcairn Islands** (population: 56)? Same here.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+That’s why I built **AtlasAura** — a blazing-fast, responsive web app that gives you detailed, real-time information about every country on Earth. Whether you’re a travel buff, frontend dev, or late-night geography Googler, AtlasAura is your passport to the planet. 🌐
+
+---
+
+## 🌏 Live Link: https://dhiman-atlasaura.netlify.app
+
+## 🚀 Features
+
+- 🏳️ Country names, native names & national flags
+- 🏛️ Capital, population, top-level domains, currencies & spoken languages
+- 📺 **Embedded YouTube travel guides** for each country
+- 🔍 **Blazing-fast search** functionality
+- 🔃 Sort by **name** or **population** (ascending/descending)
+- 📱 **Fully responsive** — from mobile to ultra-wide monitors
+- 🌐 SEO-friendly and performant (thanks to Vite)
+
+---
+
+## ⚛️ Cool React 19 Features in Action
+
+- ⚡ `useTransition()` to keep UI smooth while fetching country data
+- 🛟 `useRouteError` + `errorElement` for graceful 404s and edge-case error handling
+- 📦 `formData.entries()` for clean and dynamic input management
+
+---
+
+## ✈️ Why Use AtlasAura?
+
+- 🧳 Find your next bucket list destination
+- 🧠 Learn new flags (for that pub quiz you always lose)
+- 🌐 Discover facts like Tuvalu’s domain is `.tv`
+- 💻 Or just vibe around the world — from your desk
+
+---
+
+
